@@ -1,0 +1,51 @@
+MIT License
+
+Copyright (c) 2025 MottaSec
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Educational and Defensive Security Use Only
+
+This research and documentation are provided for **educational, research, and
+defensive security purposes only**. The information is intended to help security
+professionals:
+
+- Understand Akira ransomware tactics, techniques, and procedures (TTPs)
+- Develop detection and prevention mechanisms
+- Improve incident response capabilities
+- Conduct threat hunting and forensic analysis
+
+### Prohibited Uses
+
+You may NOT use this information to:
+
+- Develop, enhance, or deploy malware or ransomware
+- Exploit vulnerabilities in production systems without proper authorization
+- Distribute ransomware or malicious code
+- Engage in any illegal activities
+
+### Disclaimer
+
+The authors and contributors are not responsible for any misuse of this
+information. All analysis was conducted in isolated, controlled environments
+for defensive security research purposes.
+
+Use of this information implies acceptance of these terms and conditions.
