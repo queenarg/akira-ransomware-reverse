@@ -11,7 +11,7 @@
 
 ## Executive Summary
 
-This repository contains a comprehensive technical analysis of the Akira ransomware variant, conducted through deep reverse engineering using Ghidra and Model Context Protocol (MCP) integration. The analysis spans **8,930+ lines of technical documentation** with **69 professional diagrams** covering every aspect of the malware's operation.
+This repository contains a comprehensive technical analysis of the Akira ransomware variant, conducted through deep reverse engineering using Ghidra, Frida, and x64dbg. The analysis spans **8,930+ lines of technical documentation** with **69 professional diagrams** covering every aspect of the malware's operation.
 
 ### Key Findings
 
