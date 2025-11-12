@@ -2735,7 +2735,7 @@ Focus areas:
 **Research Credit:** MottaSec
 **Contact:** https://www.linkedin.com/company/mottasec
 **GitHub:** https://github.com/MottaSec
-**X (Twitter):** https://x.com/mottasec_
+**X (Twitter):** <https://x.com/mottasec_>
 
 ---
 

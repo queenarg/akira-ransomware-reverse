@@ -501,7 +501,7 @@ See [LICENSE](LICENSE) file for details.
 - Open an issue in this repository
 - GitHub: https://github.com/MottaSec
 - LinkedIn: https://www.linkedin.com/company/mottasec
-- X (Twitter): https://x.com/mottasec_
+- X (Twitter): <https://x.com/mottasec_>
 
 **Related Research:**
 - [Link to executive PDF report]
